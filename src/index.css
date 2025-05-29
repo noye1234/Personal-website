@@ -1,0 +1,9 @@
+a {
+  font-weight: 500;
+  text-decoration: inherit;
+  transition: color 0.2s ease-in-out;
+  font-style: bold;
+  font-size: 15px;
+  color: #8686c9;
+  text-decoration: underline;
+}
