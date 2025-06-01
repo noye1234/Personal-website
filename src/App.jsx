@@ -41,7 +41,7 @@ function App() {
         <h1>projects:</h1>
         </div>
         <div className="link">
-          <p ><a href="https://github.com/" style={{color: 'black;'}}><img src={gitlogo} alt="logo" width={30} /></a> 
+          <p ><a href="https://github.com/noye1234"  target="_blank" style={{color: 'black'}}><img src={gitlogo} alt="logo" width={30} /></a> 
          <a href="https://www.linkedin.com/in/noy-elisha-b3793b350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src={linkdinlogo} alt="logo" width={30} /></a></p>
 
        </div>
@@ -49,7 +49,7 @@ function App() {
         <h1>contact: </h1>
         <p>Email: noyelisha5@gmail.com</p>
         <p>Phone: 052-330-0102</p>
-        <a href="/Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+        <a href="/NoyElisha.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
 
       </div>
       <div className="recommendations">
